@@ -1,6 +1,9 @@
 # Custom files
 logs.txt
 
+# Terraform files
+.terraform.lock.hcl
+
 # Local .terraform directories
 **/.terraform/*
 
