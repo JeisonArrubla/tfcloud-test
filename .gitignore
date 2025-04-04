@@ -1,3 +1,6 @@
+# Custom files
+logs.txt
+
 # Local .terraform directories
 **/.terraform/*
 
