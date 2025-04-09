@@ -1,2 +1,2 @@
 # tfcloud-test
-Test project with Terraform
+Terraform cloud test
